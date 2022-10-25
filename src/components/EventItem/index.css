@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.event-items {
+  list-style: none;
+}
+.event-img {
+  width: 300px;
+  cursor: pointer;
+}
+
+.heading {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.btn {
+  background: none;
+  border: none;
+  outline: none;
+}
+
+.text {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 13px;
+  margin: 5px;
+  margin-bottom: 10px;
+}
